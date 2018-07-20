@@ -1,0 +1,37 @@
+.PostArea{
+  margin-top: 50px;
+}
+
+.postbtn{
+  float: right;
+  margin-top: 4px;
+  margin-right: 5px;
+}
+
+.postPanel{
+  margin-top: 3px;
+  padding: 10px;
+  border-style: ridge;
+  border-radius: 20px;
+}
+
+.selectpicker{
+  margin-top: 4px;
+  color: gray;
+  width: 100px;
+  height: 30px;
+}
+
+.panel-default > .panel-heading{
+  background-color: lightblue;
+}
+
+.like{
+  color: black;
+  margin-left: 25px;
+}
+
+.comment{
+  color: #2e6da4;
+  padding-left: 25px;
+}
